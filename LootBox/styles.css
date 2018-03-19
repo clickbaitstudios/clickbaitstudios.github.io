@@ -1,0 +1,135 @@
+body{
+    background-color:#686868;
+}
+
+iframe{
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.title{
+    text-align: center;
+}
+
+h1.MemberTitle{
+    padding-top:1em;
+    text-align: center;
+}
+
+h3.MemberTitle{
+    padding-top:1em;
+    text-align: center;
+}
+
+h4.footer{
+    text-align: center;
+}
+
+h5.center{
+    text-align: center; 
+}
+
+h5.biggerText{
+    font-size: 15px;
+    color: #e2e2e2;
+}
+
+nav{
+    top: -3em;
+}
+
+hr{
+    border-color: #a3a3a3;
+}
+
+li{
+    color: black;
+}
+
+li.nav{
+    color: white;
+}
+
+img.content{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   /*text-align: center;*/ 
+}
+
+img.banner{
+    width:100%;
+    min-height:6em;
+}
+
+div.game{
+    /*display: block;
+    margin-left: auto;
+    margin-right: auto;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Card Styles*/
+div.card{
+    background-color:#a3a3a3;
+}
+
+div.notes{
+    /*padding-left: 2em;*/
+    background-color:#bfbfbf;
+}
+
+div.row{
+    width:100%;
+}
+
+div.pageContent{
+    background-color:#e2e2e2;
+}
+
+div.spacer{
+    padding-left: 1em;
+    line-height: 25%;
+}
+
+div.spacerAbove{
+    padding-top: 1em;
+    /*padding-bottom: 1em*/;
+}
+
+div.spacerBelow{
+    padding-bottom: 1em;
+}
+
+div.doubleSpacerBelow{
+    padding-bottom: 2em;
+}
+
+div.lowerBar{
+    margin-top:3em;
+}
+
+span.bold{
+    font-weight: bold;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+li{
+    font-weight: bold;
+}

@@ -1,0 +1,214 @@
+body{
+    background-color:#686868;
+}
+
+h1.title{
+    text-align: center;
+    position: block;
+    margin-top: -2em;
+    z-index: 1;
+}
+
+h3.MemberTitle{
+    padding-top:1em;
+    text-align: center;
+}
+
+iframe{
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h5.center{
+    text-align: center; 
+    color: #e2e2e2;
+}
+
+h5.biggerText{
+    font-size: 15px;  
+}
+
+h5.up{
+    margin-top: -0.2em;
+}
+
+h3.name{
+    padding-left: 0.8em;
+}
+
+nav{
+    top: -3em;
+}
+
+div.rightSide{
+    padding-left:0.5em;
+    padding-right:0.5em;
+}
+
+div.container{
+    width:100%;
+}
+
+ul.centerPls{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Card Styles*/
+
+div.card{
+    margin-top:-0.5em;
+    background-color:#a3a3a3;
+    padding-bottom:0.2em;
+    border-radius: 5px;
+}
+
+div.cardTop{
+    background-color:#a3a3a3;
+}
+
+div.notes{
+    padding-left: 2em;
+    background-color:#bfbfbf;
+}
+
+div.row{
+    width:100%;
+}
+
+div.pageContent{
+    background-color:#e2e2e2;
+}
+
+div.spacer{
+    padding-left: 1em;
+    line-height: 25%;
+}
+
+div.spacerAbove{
+    padding-top: 1em;
+    /*padding-bottom: 1em*/;
+}
+
+div.spacerBelow{
+    padding-bottom: 1em;
+}
+
+div.spacerBelowSmaller{
+    padding-bottom: 0.35em;
+}
+
+div.spacerBelowForNick{
+    padding-bottom: 1.55em;
+}
+
+div.doubleSpacerBelow{
+    padding-bottom: 2em;
+}
+
+div.rightCardPart{
+    padding-left: 3em;
+}
+
+div.lowerBar{
+    margin-top:3em;
+}
+
+p.major{
+    color:#909090;
+    font-size: 14px;
+    line-height: 120%;
+    width: 100%;    
+}
+
+p.bio-title{
+    color:#F2C94C;
+    font-size: .7em;
+}
+
+p.bio{
+    margin-top: -.4em;
+    color: black;
+    font-size: 14px;
+    width: 100%;
+    background-color: #e2e2e2;
+    border-radius: 7px;
+    padding: 0.5em 1em 0.5em 1em;
+    /*19em*/;
+   /* height: 6em;
+    line-height: 120%;*/
+}
+
+p.bold{
+    font-weight: bold;
+}
+
+img.user-icon{
+    min-width: 8em;
+    max-width: 9.5em;
+    height:width;
+    padding-top:.2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.linkedin{
+    z-index: 1;
+    position: relative;
+    margin-top: -1em;
+    padding-top:1.5em;
+    padding-right: 2em;
+    float: right;    
+}
+
+img.linkedInDark{
+    width:1.2em;
+    height:width;
+}
+
+img.banner{
+    width:100%;
+    min-height:6em;
+}
+
+h6{
+    color: black;
+}
+
+h6.top{
+    text-align: left;
+    /*width:28em;*/
+    width: 100%;
+    line-height: 150%;
+}
+
+h5{
+    color: black;
+    font-size:1.2em;
+    padding-top:.25em;
+}
+
+h4.bold{
+    font-weight: bold;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+li{
+    font-weight: bold;
+}
